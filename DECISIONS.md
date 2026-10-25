@@ -22,7 +22,9 @@ Settled by the owner. Do not reopen without owner approval. Add new decisions at
 - **Repository:** public, by owner's choice. Keep the exact block and lot number out of all files.
 - **Zoning (Cotaparedes-style):** left side = closed/private (car at front, bedrooms + T&B, utilities); right side = open + green. Right column is one open room from front door to rear door: no partitions, nothing freestanding in the walkway, 2–3 large real indoor plants (self-watering pots, tough species).
 - **Entry court garden:** the covered court behind the breeze-block wall is the main garden: planting bed + one feature plant/tree in a large pot, visible from the Living window.
-- **Dining:** fold-down or wall-hung table for 4 against the left wall; no freestanding dining table. Existing counter is the coffee station (no cooking); no separate coffee unit.
+- **Dining (updated):** long low-profile table PARALLEL to the left dining wall (~150 × 50, h ~70): built-in plywood banquette against the wall (~38 deep, h ~42) + loose backless bench/stools (~30) that tuck under. Seats 6, up to 8 with end stools. Existing counter is the coffee station (no cooking).
+- **Fridge:** hotel/bar fridge (~70–90 L, or ~50 L minibar) under the LEFT half of the existing counter; shift the sink to the right half (small plumbing move). No full-size fridge.
+- **Right dining wall:** shallow full-height plywood storage wall (~30 deep, from end of TV zone to before the rear-door swing): pantry, linens/towels, cleaning kit + vacuum, guest supplies, locked owner section (replaces the separate owner cabinet). Walkway ≈67 cm with bench out, ≈97 cm tucked.
 - **Rear service area:** deprioritized (limited control). Only reserve space for AC outdoor units and the water tank; no patio design for now.
 - **CR room size:** use 160 × 135 as the usable CR envelope (owner-confirmed developer dimension), not 150 × 125.
 - **Toilet:** owner's choice — EMPOLO back-to-wall floor-standing pan (45 × 37 footprint, 55 projection, h 40.5), paired with a locally available concealed cistern built into the service ledge. Confirm trap type (S or P) and rough-in with supplier; legroom ≈65 with ledge.
