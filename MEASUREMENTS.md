@@ -10,7 +10,7 @@ Plan dimensions are wall centerlines; clear sizes are inside the walls (~10–15
 | Lot depth | ≈12.00 m | derived (60 sqm ÷ width) |
 | Left column width | 2.70 m | developer plan |
 | Right column width | 2.30 m | developer plan |
-| Bedroom 1 depth | ≈2.40 m | estimated, owner says close |
+| Bedroom 1 depth | 2.86 m centerline (≈2.75 clear) | owner-confirmed (developer plan + walkthrough) |
 | Living depth | ≈3.40 m | derived |
 | Living front projection vs. Bedroom 1 | ≈1.00 m | owner estimate |
 | Front-left yard depth | ≈4.75 m | estimated, owner says close |
