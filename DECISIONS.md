@@ -20,3 +20,7 @@ Settled by the owner. Do not reopen without owner approval. Add new decisions at
 - **Owner storage:** a locked owner-storage cabinet is required and must not block circulation.
 - **Required equipment:** AC in both bedrooms and the living room, water heater, smart lock, exterior CCTV.
 - **Repository:** public, by owner's choice. Keep the exact block and lot number out of all files.
+- **Zoning (Cotaparedes-style):** left side = closed/private (car at front, bedrooms + T&B, utilities); right side = open + green. Right column is one open room from front door to rear door: no partitions, nothing freestanding in the walkway, 2–3 large real indoor plants (self-watering pots, tough species).
+- **Entry court garden:** the covered court behind the breeze-block wall is the main garden: planting bed + one feature plant/tree in a large pot, visible from the Living window.
+- **Dining:** fold-down or wall-hung table for 4 against the left wall; no freestanding dining table. Existing counter is the coffee station; no separate coffee unit.
+- **Rear service area:** deprioritized (limited control). Only reserve space for AC outdoor units and the water tank; no patio design for now.
