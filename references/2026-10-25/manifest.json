@@ -1,0 +1,62 @@
+[
+  {
+    "file": "01-floor-plan.jpg",
+    "original_filename": "1-Photo-1.jpg",
+    "bytes": 116599,
+    "sha256": "99baabfa2e3936de6a6ed58469a3e24415244b3b291b9b5e36a34b80822a4633"
+  },
+  {
+    "file": "02-walkthrough-1.mp4",
+    "original_filename": "2-att.pFw1f83b0ikPB4y2Ub_rGBSHTccE_uZw39beiiPE_ic.mp4",
+    "bytes": 1589370,
+    "sha256": "a45c357fcddbd2290f078cb651bfeb1814874dc704fee670dfd6de8a23c4fe27"
+  },
+  {
+    "file": "03-walkthrough-2.mp4",
+    "original_filename": "3-att.RCv91cCWdJHyzVjZJE34hJpHhZSYFQUSPW8AHaU_xfc.mp4",
+    "bytes": 4493822,
+    "sha256": "442bfdd5c0967491f2cd58d9244df8849a478594981505123d6f001da53fc5f7"
+  },
+  {
+    "file": "04-living-kitchenette.jpg",
+    "original_filename": "4-Photo-4.jpg",
+    "bytes": 121738,
+    "sha256": "9571466942a634e5123d8beaa4cfafbfd0881fb31bc7532385e981c6fceaace3"
+  },
+  {
+    "file": "05-street-view.jpg",
+    "original_filename": "5-Photo-5.jpg",
+    "bytes": 204665,
+    "sha256": "70c3840f7b2fa74704949fd59ff6ad02de7001959592c5ae6331a52724c652e9"
+  },
+  {
+    "file": "06-front-window-entry.jpg",
+    "original_filename": "6-Photo-6.jpg",
+    "bytes": 249356,
+    "sha256": "ca1386ea548ff3635f845881007a2ae8f942c2863137dd93c93376fce985c73f"
+  },
+  {
+    "file": "07-front-exterior.jpg",
+    "original_filename": "7-Photo-7.jpg",
+    "bytes": 328101,
+    "sha256": "6144674080416df55c07491d366508f49db6aff173968e77226f8906cff2aba9"
+  },
+  {
+    "file": "08-bedroom.jpg",
+    "original_filename": "8-Photo-8.jpg",
+    "bytes": 139590,
+    "sha256": "cfe8d41b87f2bc4205f4ea225057a55a0960ff46d629f86c1957ad4150159463"
+  },
+  {
+    "file": "09-living-kitchenette-repeat.jpg",
+    "original_filename": "9-Photo-9.jpg",
+    "bytes": 121738,
+    "sha256": "9571466942a634e5123d8beaa4cfafbfd0881fb31bc7532385e981c6fceaace3"
+  },
+  {
+    "file": "10-bathroom.jpg",
+    "original_filename": "10-Photo-10.jpg",
+    "bytes": 108874,
+    "sha256": "1f45ec7443002b74c03dc3a7e2b40e5a1d19ff1dd22066948f2e1fcd69d9ba81"
+  }
+]
