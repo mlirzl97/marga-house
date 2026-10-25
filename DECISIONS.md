@@ -5,7 +5,7 @@ Settled by the owner. Do not reopen without owner approval. Add new decisions at
 ## 2026-10-25
 - **Bedroom doors:** sliding panels mounted inside each bedroom. Keep the wall beside each opening clear for the panel.
 - **T&B door:** 2-panel telescopic sliding door, stacking on the hall side.
-- **Front door:** swings out into the covered entry court.
+- **Front door (updated):** swings IN, hinged on the sofa-wall side, leaf resting against the blank wall segment before the sofa (sofa starts ≥85 cm from the front wall; door stop to protect the wall). Court stays fully clear.
 - **Privacy wall:** breeze-block, right side of the front yard, directly covering the front door, with a planting bed toward the street and a ~80 cm path between it and the car.
 - **Shoes:** outdoor shoe bench in the covered court behind the privacy wall.
 - **Parking:** MG ZS (431 × 181 cm) reversed in, hugging the left boundary wall, ~30 cm from the Bedroom 1 wall. Passengers alight on the street. Do not idle; the exhaust faces the Bedroom 1 window. Keep the water meter accessible.
@@ -29,3 +29,5 @@ Settled by the owner. Do not reopen without owner approval. Add new decisions at
 - **CR room size:** use 160 × 135 as the usable CR envelope (owner-confirmed developer dimension), not 150 × 125.
 - **Toilet:** owner's choice — EMPOLO back-to-wall floor-standing pan (45 × 37 footprint, 55 projection, h 40.5), paired with a locally available concealed cistern built into the service ledge. Confirm trap type (S or P) and rough-in with supplier; legroom ≈65 with ledge.
 - **Reuse:** owner's spare 55" TV (in Pasig; needs repair + transport) and spare queen platform frame (152 × 190, flush, no headboard). Add a carpenter-built plywood headboard panel that hides the Bedroom 1 AC pipe and carries bedside lights/ledge; under-bed bins replace platform drawers.
+
+- **Entry court (updated):** one straight breeze-block wall across the living front only, NO return on the car side; court open toward the car path. Built-in concrete bench on the window side, inside face of the wall. Planting bed on the street side; one feature plant in the court corner by the window.
