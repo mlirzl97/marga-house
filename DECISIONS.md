@@ -6,7 +6,7 @@ Settled by the owner. Do not reopen without owner approval. Add new decisions at
 - **Bedroom doors:** sliding panels mounted inside each bedroom. Keep the wall beside each opening clear for the panel.
 - **T&B door:** 2-panel telescopic sliding door, stacking on the hall side.
 - **Front door (updated):** swings IN, hinged on the sofa-wall side, leaf resting against the blank wall segment before the sofa (sofa starts ≥85 cm from the front wall; door stop to protect the wall). Court stays fully clear.
-- **Privacy wall:** breeze-block, right side of the front yard, directly covering the front door, with a planting bed toward the street and a ~80 cm path between it and the car.
+- **Privacy wall:** one straight breeze-block wall across the living front only (~1.25 m out), NO return on the car side — the court is open on the car side for entry. Planting bed on the street side; ~80 cm path between it and the car. Ornamental plant at the wall's end corner (street side, not narrowing the path). Bench stays in the court.
 - **Shoes:** outdoor shoe bench in the covered court behind the privacy wall.
 - **Parking:** MG ZS (431 × 181 cm) reversed in, hugging the left boundary wall, ~30 cm from the Bedroom 1 wall. Passengers alight on the street. Do not idle; the exhaust faces the Bedroom 1 window. Keep the water meter accessible.
 - **Kitchen:** no cooking. The existing counter becomes a coffee/breakfast and pantry station: fridge, kettle, microwave, water dispenser, dishes for 5, closed storage. Listed as a "kitchenette".
